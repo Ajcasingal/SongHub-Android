@@ -1,5 +1,12 @@
 {
   "version": 1,
+  "appUpdate": {
+    "versionCode": 229,
+    "versionName": "2.29.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/app-release.apk",
+    "changelog": "• Bug fixes",
+    "forceUpdate": false
+  },
   "files": [
     {
       "folder": "sound",
