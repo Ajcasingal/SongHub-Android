@@ -1,8 +1,8 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 229,
-    "versionName": "2.29.67",
+    "versionCode": 230,
+    "versionName": "2.30.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/app-release.apk",
     "changelog": "• New Download Prebuilt Files/n• New App Update Option",
     "forceUpdate": false
