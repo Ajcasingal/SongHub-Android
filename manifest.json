@@ -9,17 +9,17 @@
     {
       "folder": "idx",
       "fileName": "shubblob",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubidx",
+      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubblob",
     },
     {
       "folder": "sound",
       "fileName": "soundfont.sf2",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/GeneralUser_GS.sf2",
+      "url": "https://github.com/user/repo/releases/download/v1.0.0/songhub.sf2",
     },
     {
       "folder": "bgv",
       "fileName": "Video1.mp4",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/sample_bgv.mp4",
+      "url": "https://github.com/user/repo/releases/download/v1.0.0/Video1.mp4",
     },
     {
       "folder": "bgphoto",
