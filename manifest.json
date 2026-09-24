@@ -14,27 +14,27 @@
     {
       "folder": "sound",
       "fileName": "soundfont.sf2",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/songhub.sf2",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/songhub.sf2",
     },
     {
       "folder": "bgv",
       "fileName": "Video1.mp4",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/Video1.mp4",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/Video1.mp4",
     },
     {
       "folder": "bgphoto",
       "fileName": "1.jpg",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/sample_bgphoto.jpg",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/1.jpg",
     },
     {
       "folder": "bgphoto",
       "fileName": "2.jpg",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/sample_bgphoto.jpg",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/2.jpg",
     },
     {
       "folder": "bgphoto",
       "fileName": "3.jpg",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/sample_bgphoto.jpg",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/3.jpg",
     }
   ]
 }
