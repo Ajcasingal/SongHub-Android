@@ -2,16 +2,6 @@
   "version": 1,
   "files": [
     {
-      "folder": "idx",
-      "fileName": "shubidx",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubidx",
-    },
-    {
-      "folder": "idx",
-      "fileName": "shubblob",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubblob",
-    },
-    {
       "folder": "sound",
       "fileName": "soundfont.sf2",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/songhub.sf2",
@@ -35,6 +25,16 @@
       "folder": "bgphoto",
       "fileName": "3.jpg",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/3.jpg",
+    },
+    {
+      "folder": "idx",
+      "fileName": "shubidx",
+      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubidx",
+    },
+    {
+      "folder": "idx",
+      "fileName": "shubblob",
+      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubblob",
     }
   ]
 }
