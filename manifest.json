@@ -4,7 +4,7 @@
     "versionCode": 229,
     "versionName": "2.29.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/app-release.apk",
-    "changelog": "• Bug fixes",
+    "changelog": "• New Download Prebuilt Files/n• New App Update Option",
     "forceUpdate": false
   },
   "files": [
