@@ -65,7 +65,7 @@ SongHub/
 - 🎨 **Customizable Lyrics:** Pwedeng baguhin ang laki ng font, kulay, posisyon, at ayos ng lyrics sa screen.
 - 📹 **Background Video, Larawan, at Kamera:** Pwedeng magpalit-palit ng Background Video (BGV), Photo Slideshow, o Live USB / Camera Feed habang nagkakanta.
 - 🎬 **May Kasamang Media Player:** Pwedeng mag-play ng sarili mong MP4 at MP3 files nang deretso sa app.
-- ⚡ **Mabilis at Malinis na UX:** Mabilis gamitin at walang nakakadistrayang abubot o animations sa taas at baba ng screen.
+- ⚡ **Mabilis at Malinis na UX:** Mabilis gamitin at walang nakakadistrayang abubot o mabibigat na animations sa taas at baba ng screen.
 - 📱 **Malawak na Compatibility:** Suportado mula Android 6.0 Marshmallow hanggang sa pinakabagong Android 17+.
 - 🔒 **100% Libre at Offline:** Walang bayad, walang bayad sa subscription, at gagana kahit walang koneksyon sa internet.
   
