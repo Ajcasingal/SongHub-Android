@@ -84,4 +84,4 @@ SongHub/
 ---
 
 ## 📄 License
-SongHub Android is **100% Free** for personal use.
+SongHub Android is **100% Free** for personal use. Songs in your personal files and the prebuilts are duly licensed by music publishers and MIDI programmers.
