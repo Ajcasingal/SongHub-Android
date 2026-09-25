@@ -29,15 +29,17 @@
 - 🎨 **Customizable Lyric Interface:** Adjust lyric font sizes, styles, positions, and display preferences.
 - 📹 **Dynamic Visual Backgrounds:** Switch between Background Videos (BGV), Photo Slideshows, or Live USB / Camera Feed as your video background.
 - 🎬 **Built-in Media Player:** Play your personal MP4 videos and MP3 audio files directly inside the app.
-- ⚡ **Lightweight & Clean UX:** Fast performance with zero bloat and no distracting top or bottom toolbar animations.
+- ⚡ **Lightweight & Clean UX:** Fast performance with zero bloats and no distracting heavy top and bottom bar animations.
 - 📱 **Broad Android Support:** Compatible with Android 6.0 Marshmallow all the way up to Android 17+.
 - 🔒 **100% Free & Offline:** No subscriptions, no locked features, and works completely offline without needing an active internet connection.
-
+  
+   _*Downloading Prebuilt files requires Internet connection, one at a time_
+  
 ---
 
 ### 📁 Directory Structure & Content Setup
 
-Create a folder named `SongHub` in your Internal Storage or USB flash drive:
+Create a folder named `SongHub` in your Internal Storage, SD Card or USB flash drive:
 
 ```text
 SongHub/
@@ -66,12 +68,14 @@ SongHub/
 - ⚡ **Mabilis at Malinis na UX:** Mabilis gamitin at walang nakakadistrayang abubot o animations sa taas at baba ng screen.
 - 📱 **Malawak na Compatibility:** Suportado mula Android 6.0 Marshmallow hanggang sa pinakabagong Android 17+.
 - 🔒 **100% Libre at Offline:** Walang bayad, walang bayad sa subscription, at gagana kahit walang koneksyon sa internet.
+  
+   _*Ang pag-download ng Prebuilt Files ay nangangailangan ng Internet Connection at isang pasadahan lang._
 
 ---
 
 ### 📁 Structure ng Folder at Paglalagay ng Kanta
 
-Gawa ng folder na pinangalanang `SongHub` sa iyong Internal Storage o USB Flash Drive:
+Gawa ng folder na pinangalanang `SongHub` sa iyong Internal Storage, SD Card o USB Flash Drive:
 
 ```text
 SongHub/
