@@ -5,6 +5,8 @@
 [![Offline](https://img.shields.io/badge/Offline-100%25-orange.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Phone%20%7C%20Tablet%20%7C%20Android%20TV-purple.svg)](#)
 
+<img width="2302" height="668" alt="image" src="https://github.com/user-attachments/assets/3287e6dc-7a43-4e66-baeb-8be9009ece25" />
+
 > **SongHub Android** is a lightweight, hybrid-type Karaoke Interface built for Phones, Tablets, and Android/Google TV devices. Designed to be fast, distraction-free, and 100% offline-capable.
 
 ---
