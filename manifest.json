@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 232,
-    "versionName": "2.32.67",
+    "versionCode": 233,
+    "versionName": "2.33.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.32.67/app-release.apk",
-    "changelog": "• Branded Songhub splash screen",
+    "changelog": "• Added Voice search in the Song search, Artist, New songs, Media player and Song search overlay (Karaoke mode)\n• Added two new fonts: THE Cute Rabbit, THE Normal",
     "forceUpdate": false
   },
   "files": [
