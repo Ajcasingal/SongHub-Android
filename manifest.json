@@ -61,12 +61,12 @@
     {
       "folder": "idx",
       "fileName": "shubidx",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubidx",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubidx",
     },
     {
       "folder": "idx",
       "fileName": "shubblob",
-      "url": "https://github.com/user/repo/releases/download/v1.0.0/shubblob",
+      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubblob",
     }
   ]
 }
