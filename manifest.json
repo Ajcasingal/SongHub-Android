@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 235,
-    "versionName": "2.35.67",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.35.67/app-release.apk",
-    "changelog": "• Fixed Diagnostic and crashing issues on Android Marshmallow and Nougat\n• Added Fallback Icon for Android Marshmallow and Nougat\n• Fixed BGV loading for the first time users",
+    "versionCode": 236,
+    "versionName": "2.36.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.36.67/app-release.apk",
+    "changelog": "• Fixed Search icon on landscape disappearing\n• Fixed Splash screen and Search/Help button layout in Portrait view",
     "forceUpdate": false
   },
   "files": [
