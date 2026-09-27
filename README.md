@@ -31,7 +31,7 @@
 - 🎬 **Built-in Media Player:** Play your personal MP4 videos and MP3 audio files directly inside the app.
 - ⚡ **Lightweight & Clean UX:** Fast performance with zero bloats and no distracting heavy top and bottom bar animations.
 - 📱 **Broad Android Support:** Compatible with Android 6.0 Marshmallow all the way up to Android 17+.
-- 🔒 **100% Free & Offline:** No subscriptions, no locked features, and works completely offline without needing an active internet connection.
+- 🔒 **100% Free & Offline:** No subscriptions, no locked features, no activations and works completely offline without needing an active internet connection.
   
    _*Downloading Prebuilt files requires Internet connection, one at a time_
   
@@ -67,7 +67,7 @@ SongHub/
 - 🎬 **May Kasamang Media Player:** Pwedeng mag-play ng sarili mong MP4 at MP3 files nang deretso sa app.
 - ⚡ **Mabilis at Malinis na UX:** Mabilis gamitin at walang nakakadistrayang abubot o mabibigat na animations sa taas at baba ng screen.
 - 📱 **Malawak na Compatibility:** Suportado mula Android 6.0 Marshmallow hanggang sa pinakabagong Android 17+.
-- 🔒 **100% Libre at Offline:** Walang bayad, walang bayad sa subscription, at gagana kahit walang koneksyon sa internet.
+- 🔒 **100% Libre at Offline:** Walang bayad, walang bayad sa subscription, walang activation codes, at gagana kahit walang koneksyon sa internet.
   
    _*Ang pag-download ng Prebuilt Files ay nangangailangan ng Internet Connection at isang pasadahan lang._
 
