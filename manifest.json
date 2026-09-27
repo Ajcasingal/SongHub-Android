@@ -4,7 +4,7 @@
     "versionCode": 235,
     "versionName": "2.35.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.35.67/app-release.apk",
-    "changelog": "• Fuck You Eiji Kato a.k.a ACKNOWLEDGE ME JAMES SANTIAGO/MIKE JONES/EK FANGUY for stalking my Git page\n• Fixed Diagnostic and crashing issues on Android Marshmallow and Nougat\n• Added Fallback Icon for Android Marshmallow and Nougat\n• Fixed BGV loading for the first time users",
+    "changelog": "• Fixed Diagnostic and crashing issues on Android Marshmallow and Nougat\n• Added Fallback Icon for Android Marshmallow and Nougat\n• Fixed BGV loading for the first time users",
     "forceUpdate": false
   },
   "files": [
