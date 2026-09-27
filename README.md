@@ -43,7 +43,7 @@ Create a folder named `SongHub` in your Internal Storage, SD Card or USB flash d
 
 ```text
 SongHub/
-├── song/       # Place your song files here (.mid, .mp3, .mp4, etc.)
+├── songs/       # Place your song files here (.mid, .mp3, .mp4, etc.)
 ├── sound/      # Place your Soundfont files (.sf2) here
 ├── bgv/        # Place your Background Videos here (.mp4, .mkv, .avi)
 │   ├── Dance/  # (Optional) Categorized subfolders inside bgv
@@ -79,7 +79,7 @@ Gawa ng folder na pinangalanang `SongHub` sa iyong Internal Storage, SD Card o U
 
 ```text
 SongHub/
-├── song/       # Dito ilagay ang mga kanta (.mid, .mp3, .mp4, atbp.)
+├── songs/       # Dito ilagay ang mga kanta (.mid, .mp3, .mp4, atbp.)
 ├── sound/      # Dito ilagay ang mga Soundfont (.sf2)
 ├── bgv/        # Dito ilagay ang mga Background Video (.mp4, .mkv, .avi)
 │   ├── Dance/  # (Optional) Pwedeng lagyan ng subfolders sa loob ng bgv
