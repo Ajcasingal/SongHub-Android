@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 236,
-    "versionName": "2.36.67",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.36.67/app-release.apk",
-    "changelog": "• Fixed Search icon on landscape disappearing\n• Fixed Splash screen and Search/Help button layout in Portrait view",
+    "versionCode": 238,
+    "versionName": "2.38.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.38.67/app-release.apk",
+    "changelog": "• Please update your Prebuilt files now to experience endless songs and customizations!\n• Fixed Queue Reservation bar overlay, removed Porter Duff that can cause blocking on some overlays (e.g. song search button, score animation)\n• Overall stability and GUI refinements\n• Abangan ang SongHub PC and Songhub Legacy PC builds para sa inyong Windows computer\n\nPaalala: I-download ang aming official releases sa GitHub or pindutin ang Check for App Updates para on time ay updated ang app nyo laban sa mga problema at bugs.",
     "forceUpdate": false
   },
   "files": [
