@@ -4,7 +4,7 @@
     "versionCode": 240,
     "versionName": "2.40.67",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.40.67/app-release.apk",
-    "changelog": "• Please update your Prebuilt files now to experience endless songs and customizations!\n• Fixed download error (prebuilt and app apk update) for Android 6.0-8.0 due to certificate issues.\n• Fixed viewing experience for screens with 9:16 portrait aspect ratio\n• On landscape keypad, removed the number indicator in MEL button and it shows the adjustment overlay instead\n• Added Countdown Size for portrait and landscape for Stacked modes (Image, Stars, Custom image)\n• Improved memory management, segment caching and zero garbage collection.\n• Fixed voice search issues on Coocaa TV, Astron KTV TV or any Wisdom Share OS UI\n• Abangan ang SongHub PC and Songhub Legacy PC builds para sa inyong Windows computer\n\nPaalala: I-download ang aming official releases sa GitHub or pindutin ang Check for App Updates para on time ay updated ang app nyo laban sa mga problema at bugs.",
+    "changelog": "• Due to high quota, Github Repo server is down at the moment.\n• Added more contextual, and precise disclaimer regarding in prebuilt Songfile. You can use or delete the songfile OR DISCONTINUE using this app if you want.\n\nPaalala: I-download ang aming official releases sa GitHub or pindutin ang Check for App Updates para on time ay updated ang app nyo laban sa mga problema at bugs.",
     "forceUpdate": false
   },
   "files": [
