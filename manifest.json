@@ -1,8 +1,8 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 240,
-    "versionName": "2.40.67",
+    "versionCode": 241,
+    "versionName": "WARNING",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.40.67/app-release.apk",
     "changelog": "• Due to high quota, Github Repo server is down at the moment.\n• Added more contextual, and precise disclaimer regarding in prebuilt Songfile. You can use or delete the songfile OR DISCONTINUE using this app if you want.\n\nPaalala: I-download ang aming official releases sa GitHub or pindutin ang Check for App Updates para on time ay updated ang app nyo laban sa mga problema at bugs.",
     "forceUpdate": false
