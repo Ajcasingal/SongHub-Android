@@ -78,15 +78,5 @@
       "fileName": "3.jpg",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/3.jpg",
     },
-    {
-      "folder": "idx",
-      "fileName": "shubidx",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubidx",
-    },
-    {
-      "folder": "idx",
-      "fileName": "shubblob",
-      "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubblob",
-    }
   ]
 }
