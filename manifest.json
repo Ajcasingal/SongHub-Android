@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 242,
-    "versionName": "2.42.67",
+    "versionCode": 250,
+    "versionName": "_WARNING",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.42.67/app-release.apk",
-    "changelog": "• Due to high quota, Github Repo server is down at the moment.\n• NEW: Downloading prebuilt content has now an option checkbox what to choose. \n• Added more contextual, and precise disclaimer regarding in prebuilt Songfile. You can use or delete the songfile OR DISCONTINUE using this app if you want. The Songfile in the IDX is a temporary and a sampling content of how karaoke works and adding midi/kar file songs is always recommended\n\nPaalala: I-download ang aming official releases sa GitHub or pindutin ang Check for App Updates para on time ay updated ang app nyo laban sa mga problema at bugs.",
+    "changelog": "• Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema.",
     "forceUpdate": false
   },
   "files": [
@@ -80,12 +80,12 @@
     },
         {
       "folder": "idx",
-      "fileName": "shubidx",
+      "fileName": "Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema.",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubidx",
     },
     {
       "folder": "idx",
-      "fileName": "shubblob",
+      "fileName": "Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema.",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubblob",
     }
   ]
