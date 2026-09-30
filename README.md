@@ -43,12 +43,15 @@ Create a folder named `SongHub` in your Internal Storage, SD Card or USB flash d
 
 ```text
 SongHub/
-├── songs/       # Place your song files here (.mid, .mp3, .mp4, etc.)
-├── sound/      # Place your Soundfont files (.sf2) here
-├── bgv/        # Place your Background Videos here (.mp4, .mkv, .avi)
-│   ├── Dance/  # (Optional) Categorized subfolders inside bgv
+├── songs/       # Place your song files here (.mid, .kar, .mp3)
+├── sound/       # Place your Soundfont files (.sf2) here
+├── videos/      # Place your video files for the media player here (.mp4, .avi, .mkv)
+├── mp3s/        # Place your audio files for the media player here (.mp3, .wav, .wma)
+├── bgv/         # Place your Background Videos here (.mp4, .mkv, .avi)
+│   ├── Dance/   # (Optional) Categorized subfolders inside bgv
 │   └── Nature/
-└── bgphoto/    # Place your Background Images here (.jpg, .png)
+├── bgphoto/     # Place your Background Images here (.jpg, .png)
+└── assets/      # Place your countdown images here (countdown_0.png ~ countdown_4.png)
 ```
 
 ---
@@ -79,12 +82,15 @@ Gawa ng folder na pinangalanang `SongHub` sa iyong Internal Storage, SD Card o U
 
 ```text
 SongHub/
-├── songs/       # Dito ilagay ang mga kanta (.mid, .mp3, .mp4, atbp.)
-├── sound/      # Dito ilagay ang mga Soundfont (.sf2)
-├── bgv/        # Dito ilagay ang mga Background Video (.mp4, .mkv, .avi)
-│   ├── Dance/  # (Optional) Pwedeng lagyan ng subfolders sa loob ng bgv
+├── songs/       # Dito ilagay ang mga kanta (.mid, .kar, .mp3)
+├── sound/       # Dito ilagay ang mga Soundfont (.sf2)
+├── videos/      # Dito ilagay ang mga video file para sa media player (.mp4, .avi, .mkv)
+├── mp3s/        # Dito ilagay ang mga audio file para sa media player (.mp3, .wav, .wma)
+├── bgv/         # Dito ilagay ang mga Background Video (.mp4, .mkv, .avi)
+│   ├── Dance/   # (Optional) Pwedeng lagyan ng subfolders sa loob ng bgv
 │   └── Nature/
-└── bgphoto/    # Dito ilagay ang mga Background Images/Photos (.jpg, .png)
+├── bgphoto/     # Dito ilagay ang mga Background Images/Photos (.jpg, .png)
+└── assets/      # Dito ilagay ang mga countdown image (countdown_0.png ~ countdown_4.png)
 ```
 
 ---
