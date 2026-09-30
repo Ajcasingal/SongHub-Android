@@ -1,7 +1,7 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 250,
+    "versionCode": 302,
     "versionName": "_WARNING",
     "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.42.67/app-release.apk",
     "changelog": "• Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon at unavailable ang songfile at releases ng app. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema. Kung nakapag download kayo ng app na ito at umabot kayo sa error na ito, maghintay po muna kayo at abangan ang announcement ng developer. Huwag pong tangkilikin ang mga taong nagbebenta ng kopya ng application na ito na may kasama nang laman at walang pananagutan ang developer sa inyong pera. Tanging pumunta lamang sa GitHub repo (https://github.com/jpdcs/SongHub-Android) para sa app releases at huwag tangkilikin ang ibang link na nakaupload sa cloud drives. Sa Songs at Midi files, humanap kayo sa Google ng mga libreng mid/kar files or bumili kay Jose Antonio ng mga Midi collections para magamit o madagdagan ng content ang inyong app.",
