@@ -1,10 +1,10 @@
 {
   "version": 1,
   "appUpdate": {
-    "versionCode": 302,
-    "versionName": "_WARNING",
-    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/2.42.67/app-release.apk",
-    "changelog": "• Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon at unavailable ang songfile at releases ng app. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema. Kung nakapag download kayo ng app na ito at umabot kayo sa error na ito, maghintay po muna kayo at abangan ang announcement ng developer. Huwag pong tangkilikin ang mga taong nagbebenta ng kopya ng application na ito na may kasama nang laman at walang pananagutan ang developer sa inyong pera. Tanging pumunta lamang sa GitHub repo (https://github.com/jpdcs/SongHub-Android) para sa app releases at huwag tangkilikin ang ibang link na nakaupload sa cloud drives. Sa Songs at Midi files, humanap kayo sa Google ng mga libreng mid/kar files or bumili kay Jose Antonio ng mga Midi collections para magamit o madagdagan ng content ang inyong app.",
+    "versionCode": 301,
+    "versionName": "3.1.67",
+    "apkUrl": "https://github.com/jpdcs/SongHub-Android/releases/download/3.1.67/app-release.apk",
+    "changelog": "• UNINSTALL THIS APP AND INSTALL THIS NEW UPDATE, this update will not affect any user files EXCEPT SONGFILES in the IDX folder\n• Mangyaring i-uninstall ang aplikasyong ito at i-install ang bagong update. Hindi po maaapektuhan ang inyong iba pang mga file MALIBAN LAMANG sa mga songfile sa loob ng IDX folder.\n• HUWAG MAKULIT KUNG BAKIT NAMIN TO GINAGAWA NGAYON, DAHIL VIRAL NA AT MADAMING NANANAMANTALA NG APPLICATION (TULAD NG PAGBEBENTA NG APK, PAGDIDISTRIBUTE NG SONG LIST, AT GINAGAWANG NEGOSYO ANG INSTALLATION) KAILANGAN NYONG IPA-ACTIVATE ANG SONGHUB.\n• I-update ang bagong Songfile na sample after i-install ang bagong bersyon na ito. (PAALALA: SA MGA NAKAPAGGAWA NG SONGLIST AT NAG PRINT PA ANG KUKULIT NYO YAN NAPAPALA NG BIDA-BIDA, MAY ILAN NA MABUBURA AT MAGBABAGO ANG LAMAN NG SAMPLE FILE ANG KUKULIT AT TATANGA NINYO)\n• UGALIING PUMUNTA SA GITHUB PAGE NA ITO PARA SA KARAGDAGANG UPDATES OR SA AMING FACEBOOK GROUP (SONGHUB KARAOKE).",
     "forceUpdate": true
   },
   "files": [
@@ -80,12 +80,12 @@
     },
         {
       "folder": "idx",
-      "fileName": "Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon at unavailable ang songfile at releases ng app. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema. Kung nakapag download kayo ng app na ito at umabot kayo sa error na ito, maghintay po muna kayo at abangan ang announcement ng developer. Huwag pong tangkilikin ang mga taong nagbebenta ng kopya ng application na ito na may kasama nang laman at walang pananagutan ang developer sa inyong pera. Tanging pumunta lamang sa GitHub repo (https://github.com/jpdcs/SongHub-Android) para sa app releases at huwag tangkilikin ang ibang link na nakaupload sa cloud drives. Sa Songs at Midi files, humanap kayo sa Google ng mga libreng mid/kar files or bumili kay Jose Antonio ng mga Midi collections para magamit o madagdagan ng content ang inyong app.",
+      "fileName": "shubidx",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubidx",
     },
     {
       "folder": "idx",
-      "fileName": "Pasensya na sa abala at kung nakatanggap kayo nito, maintenance muna kami ngayon at unavailable ang songfile at releases ng app. Sa Lunes OCT 5, 2026, i-uninstall ang app na ito at i-install ang panibagong application ng Songhub gawa ng bagong polisiya at maiwasan ang anumang problema. Kung nakapag download kayo ng app na ito at umabot kayo sa error na ito, maghintay po muna kayo at abangan ang announcement ng developer. Huwag pong tangkilikin ang mga taong nagbebenta ng kopya ng application na ito na may kasama nang laman at walang pananagutan ang developer sa inyong pera. Tanging pumunta lamang sa GitHub repo (https://github.com/jpdcs/SongHub-Android) para sa app releases at huwag tangkilikin ang ibang link na nakaupload sa cloud drives. Sa Songs at Midi files, humanap kayo sa Google ng mga libreng mid/kar files or bumili kay Jose Antonio ng mga Midi collections para magamit o madagdagan ng content ang inyong app.",
+      "fileName": "shubblob",
       "url": "https://github.com/jpdcs/SongHub-Android/releases/download/1.0.0/shubblob",
     }
   ]
